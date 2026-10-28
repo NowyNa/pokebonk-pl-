@@ -1,0 +1,9 @@
+{
+  "types": {
+    "normal": "Normalny",
+    "fire": "Ognisty",
+    "water": "Wodny",
+    "grass": "Trawiasty",
+    "electric": "Elektryczny"
+  }
+}
